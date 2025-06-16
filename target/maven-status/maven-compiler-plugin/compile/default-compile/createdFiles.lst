@@ -1,0 +1,8 @@
+academia\main\Main.class
+academia\main\AlunoDAO.class
+academia\main\Aluno.class
+academia\main\Treino.class
+academia\main\TreinoDAO.class
+com\academia\controller\TesteConexao.class
+com\academia\controller\Controller.class
+com\academia\controller\ConexaoBD.class
